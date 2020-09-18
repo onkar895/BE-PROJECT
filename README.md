@@ -1,1 +1,25 @@
 # BE_PROJECT
+Under Water Image Enhancement Image-to-Image translation. Tensorflow-2
+## Installation
+```bash
+git clone github.com/lawlie8/BE_PROJECT
+```
+
+## Requirements
+- Tensorflow-2
+- numpy
+- cv2
+- PIL
+- scipy
+- skimage
+
+## Usage
+- To Train
+
+```bash
+python train.py
+```
+- To Predict
+```bash
+python predict.py image.png
+```
