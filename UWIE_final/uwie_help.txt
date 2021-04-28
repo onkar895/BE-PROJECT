@@ -1,0 +1,2 @@
+python video_extraction.py -v +file_path + -ex 
+//thi stores frames into frames folder with in the same directory  

@@ -1,0 +1,43 @@
+Under Water Image Enhancement using Machine learning.
+
+##########################################
+
+***Clone Repository*** 
+
+git clone github.com/lawlie8/BE_PROJECT
+##########################################
+
+***Requirements***
+
+1: Tensorflow-2
+    
+2: numpy
+
+3: cv2
+    
+4: PIL
+    
+5: scipy
+    
+6: skimage
+
+##########################################
+
+***Usage***
+
+
+
+
+##########################################
+
+***Contributors***
+
+1: Keshav Katkar
+
+2: Atal Deshmukh
+
+3: Puja Kasture
+
+4: Onkar Karale
+
+##########################################
