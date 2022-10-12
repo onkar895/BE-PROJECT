@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from tensorflow.keras.layers import Dense, Conv2D, Flatten, Dropout, MaxPooling2D
 
-PATH = 'train_and_validation'#path to training data
+PATH = 'train_and_validation' #Path to training Data
 
 train_data = os.path.join(PATH,'train')#train data extraction
 validation_data = os.path.join(PATH,'validation')#validation data extraction
