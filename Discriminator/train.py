@@ -6,7 +6,7 @@ from tensorflow.keras.layers import Dense, Conv2D, Flatten, Dropout, MaxPooling2
 
 PATH = 'train_and_validation' #Path to training Data
 
-train_data = os.path.join(PATH,'train')#train data extraction
+train_data = os.path.join(PATH,'train')   #Train data extraction
 validation_data = os.path.join(PATH,'validation')#validation data extraction
 
 #train data
