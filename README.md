@@ -2,7 +2,7 @@
 Under Water Image Enhancement Image-to-Image translation. Tensorflow-2
 ## Installation
 ```bash
-git clone github.com/lawlie8/BE_PROJECT
+git clone github.com/onkar895/BE-PROJECT.git
 ```
 
 ## Requirements
