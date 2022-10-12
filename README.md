@@ -1,5 +1,5 @@
 # BE_PROJECT
-Under Water Image Enhancement Image-to-Image translation. Tensorflow-2
+Under Water Image Enhancement Image-to-Image translation.
 ## Installation
 ```bash
 git clone github.com/onkar895/BE-PROJECT.git
